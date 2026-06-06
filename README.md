@@ -1,1 +1,1 @@
-# DBMS-assignment
+# DBMS-lab
